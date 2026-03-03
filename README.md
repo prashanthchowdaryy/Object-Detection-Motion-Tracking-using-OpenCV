@@ -29,14 +29,6 @@ OpenCV
 
 NumPy
 
-📂 Project Structure
-object-motion-tracking/
-│
-├── motion_tracking.py
-├── requirements.txt
-├── README.md
-└── screenshots/
-⚙️ Installation
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/object-motion-tracking.git
 cd object-motion-tracking
